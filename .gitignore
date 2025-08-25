@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_theme
+jekyll-theme-clean-blog.gemspec
+package-lock.json
+LICENSE
+
+node_modules
+Gemfile.lock
+*.gem
